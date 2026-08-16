@@ -26,6 +26,12 @@ The original dataset contains **559 records**. Both approaches were used to gene
 
 ## Original Dataset
 
+The original Sleep Health and Lifestyle dataset used in this project was obtained from Kaggle:
+
+**Dataset Source:** [Sleep Health and Lifestyle Dataset – Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
+The dataset contains information about sleep, lifestyle, and health-related characteristics.
+
 ### Size
 
 ```text
